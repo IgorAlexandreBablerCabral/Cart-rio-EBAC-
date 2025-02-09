@@ -1,0 +1,13 @@
+Esse documento tem como finalidade apresentar os requisitos de desenvolvimento para o perojeto de registro de nomes na EBAC 
+(Escola Britanica de Artes criativas), esse sistema consiste em registar os colaboradores e alunos que fazem parte da empresa.
+O escopo foi definido para a criação de um menu principal com três opções, armazenamento de banco de dados não relacional.
+A consulta recebe um valor de referência, definido como cpf e busca no banco de dados as informções. apresentando ao usuário. E a função
+deletar exclui os dados cadastrados a partir do CPF apresentados pelo usuário. A linguagem escolhida para o desenvolvimento é o C++ 
+
+This document aims to present the development requirements for the name registration project at BSCA (British School of Creative Arts). 
+This system is designed to register employees and students who are part of the company.
+The scope was defined for the creation of a main menu with three options, and the use of a non-relational database for storage.
+The query receives a reference value, defined as CPF (Brazilian Individual Taxpayer Registry very similar to the american Social 
+Security Number (SSN)), and searches for the information in the database, displaying it to the user. 
+The delete function removes the registered data based on the CPF provided by the user. The language chosen for development is the C++.
+
